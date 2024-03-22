@@ -1,6 +1,6 @@
 {
   "name": "react-currency-format-r18",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react currency format with r18",
   "main": "index.js",
   "type": "module",
